@@ -2,7 +2,7 @@
 
 #Initialize
 IterationLimit <- 100
-InitFlwrCnt <- 100
+InitFlwrCnt <- 99
 NextSprayNum <- c()
 NextSprayName <- c()
 NextSprayKills <- 0
