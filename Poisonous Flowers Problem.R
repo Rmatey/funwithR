@@ -1,7 +1,7 @@
 #Code to solve the poisonous flowers puzzle
 
 #Initialize
-IterationLimit <- 100
+IationLimit <- 100
 InitFlwrCnt <- 100
 NextSprayNum <- c()
 NextSprayName <- c()
