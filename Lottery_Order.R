@@ -1,6 +1,6 @@
 #Code to solve the following problem from MindYourDecisions' puzzle: https://www.youtube.com/watch?v=emzh-2i_Fzk
 
-# k = balls selected
+# k = balls selected per ticket
 # n = ball count
 
 probability_of_ordered_lottery_numbers <- function (k = 5, n = 60, iterations = 100) {
